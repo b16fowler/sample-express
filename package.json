@@ -9,6 +9,7 @@
     "node-fetch": "^3.3.2"
   },
   "devDependencies": {
+    "@types/express": "^5.0.1",
     "typescript": "^5.8.2"
   }
 }
